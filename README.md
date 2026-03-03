@@ -3,7 +3,8 @@
 A personal homepage project built as part of **The Odin Project** curriculum.  
 This project focuses on clean layout, responsive design, and fundamental front-end skills.
 
-## 🔗 Live Demo 
+## 🔗 Live Demo
+🌐 https://your-live-site-link.netlify.app  
 📂 https://github.com/SIAMECALEB/Homepage-
 
 ## 📌 About the Project
@@ -41,3 +42,7 @@ _Add a screenshot here once available_
 ## 🚀 Getting Started
 To run this project locally:
 
+```bash
+git clone https://github.com/SIAMECALEB/Homepage-
+cd Homepage-
+open index.html
